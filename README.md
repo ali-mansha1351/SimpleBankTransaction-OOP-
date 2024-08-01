@@ -1,0 +1,1 @@
+this repo contains a simple OOP based peoject or bank transaction system that i did in my third semester in c++. it includes function overwriting and operator overwriting as well as file handling to create and store user acc information and store information of his transactions in a separate folder.
